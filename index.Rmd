@@ -14,6 +14,9 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+![](img/james-cantonwine.jpg){width=100px}
+
+
 ## About
 
 Currently a district assessment coordinator for Evergreen Public Schools, former middle school science and math teacher. Interested in continuing to learn more about education applications for data science
