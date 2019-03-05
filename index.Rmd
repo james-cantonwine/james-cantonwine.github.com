@@ -2,7 +2,12 @@
 title: "James Cantonwine's website"
 author: "James Cantonwine"
 date: "3/4/2019"
-output: html_document
+output: 
+ html_document:
+  theme: spacelab 
+  toc: true
+  toc_depth: 3 
+  toc_float: true
 ---
 
 ```{r setup, include=FALSE}
@@ -26,7 +31,6 @@ Currently a district assessment coordinator for Evergreen Public Schools, former
 ## Profiles 
 
 * [LinkedIn](https://www.linkedin.com/in/james-cantonwine/)
-* 
 * [GitHub](http://github.com/james-cantonwine)
 
 ## Contact
